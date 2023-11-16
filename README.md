@@ -1,6 +1,6 @@
 Responsive Simple Calculator
 
-Demo Link: 
+Demo Link: https://chula805.github.io/Calculator-24-09-23/
 
 Responsive simple calculator Using HTML, CSS & JavaScript.
 It has five color designs (gradient, black, green, red & white)
